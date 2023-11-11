@@ -2,3 +2,4 @@
 library todos_data_source;
 
 export 'src/todos_data_source.dart';
+export 'src/models/models.dart';
